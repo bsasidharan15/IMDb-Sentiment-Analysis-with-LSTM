@@ -1,0 +1,15 @@
+collections
+matplotlib
+nltk
+numpy
+os
+pandas
+pickle
+plotly
+re
+seaborn
+sklearn
+tensorflow
+wandb
+warnings
+wordcloud
