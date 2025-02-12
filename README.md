@@ -47,7 +47,7 @@ Weights & Biases is used for experiment tracking. View results here:
 All necessary dependencies are listed in `requirements.txt`.
 
 ## 📜 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the Apache2.0 License.
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by Sasidharan B
